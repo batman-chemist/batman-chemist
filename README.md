@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @batman-chemist
-- 👀 I’m interested in C, Shell scripting and computational chemistry tools
+- 👀 I’m interested in C, Shell scripting, python and computational chemistry tools
 - 🌱 I’m currently learning DFT methods and C programing
 - 📫 How to reach me ------> sachinadityaramesh@gmail.com
 
