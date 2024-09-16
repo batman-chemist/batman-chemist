@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @batman-chemist
-- 👀 I’m interested in C, Shell scripting, python and computational chemistry tools
-- 🌱 I’m currently learning DFT methods and C programing
-- 📫 How to reach me ------> sachinadityaramesh@gmail.com
+- 👋 Hi, I’m Sachin. I wortk as a postdoc in Quantum Chemistry group at TIFR, Mumbai. 
+- 👀 I’m interested in C, Fortran, Shell scripting, python and computational chemistry tools
 
 <!---
 batman-chemist/batman-chemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
